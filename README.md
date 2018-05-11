@@ -14,7 +14,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [openFrameworks binding](https://github.com/ofnode/ofLiveApp)
   - [**JUCE Projucer**](https://juce.com/discover/projucer)
   - [**RCRL - Read-Compile-Run-Loop**](https://github.com/onqtam/rcrl) - tiny and powerful interactive C++ compiler (REPL)
-  - [**Live Asynch Visual Architecture**](https://github.com/LiveAsynchronousVisualizedArchitecture/lava)
+  - [**Live Async Visual Architecture**](https://github.com/LiveAsynchronousVisualizedArchitecture/lava)
 
 ## ClojureScript
   - [**shadow-cljs**](http://shadow-cljs.org/)
